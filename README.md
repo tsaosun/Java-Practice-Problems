@@ -1,2 +1,2 @@
 # Practice-Problems
-Solutions to sample problems from HackerRank and LeetCode
+Solutions to sample problems from HackerRank, LeetCode, etc.
